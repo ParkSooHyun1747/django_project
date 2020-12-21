@@ -1,0 +1,20 @@
+body {
+    background: white url("images/background.png") no-repeat;
+    background-position: center;
+    background-size: 10%;
+    height: 500px;
+    border-top: 10px solid #ccc;
+}
+div {
+    font-family: 'Mukta', sans-serif;
+}
+
+title{
+    color: #BF738F;
+    font-weight: bold;
+    font-family: 'Mukta', sans-serif;
+}
+li a {
+    color: #755E8C;
+    font-family: 'Mukta', sans-serif;
+}
